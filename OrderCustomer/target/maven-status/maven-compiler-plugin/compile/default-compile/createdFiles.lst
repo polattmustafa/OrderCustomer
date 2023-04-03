@@ -1,0 +1,5 @@
+com\example\OrderCustomer\Model\CustomerModel.class
+com\example\OrderCustomer\OrderCustomerApplication.class
+com\example\OrderCustomer\Repository\CustomerRepository.class
+com\example\OrderCustomer\Repository\OrderRepository.class
+com\example\OrderCustomer\Model\OrderModel.class
